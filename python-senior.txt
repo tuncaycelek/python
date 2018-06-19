@@ -1,0 +1,36 @@
+Proficiency Java, Python or Scala
+3+ years working as an engineer in a data focused team building machine learning algorithms and predictive models at large scale.
+Experience with big data architectures such as Lambda Architecture.
+Experience working with big data technologies (like Hadoop, Java Map/Reduce, Hive, Spark SQL)
+Experience in Machine Learning frameworks such as Scikit-learn, H2O, Spark MLLib, Prediction.IO
+Self-motivated; independent, organized and proactive; highly responsive, flexible, and adaptable when working across multiple teams.
+Strong SQL skills.
+Experience with recommendation systems is preferred.
+Experience with AWS is favorable.
+PhD is a plus
+Experience in NoSQL databases (HBase, casandra or elasticsearch)
+
+Büyük ve kompleks veri setleri üzerinde görüntü iþleme çalýþmalarýnda yer alacak,
+Makine öðrenmesi modellerini üst seviyede geliþtirebilecek,
+Ýþ Analitiði birimine gelen problem ve yeni geliþtirme taleplerini karþýlanmasý,
+Danýþmanlýk profiliyle müþteriye gerektiðinde farklý bakýþ açýlarý sunarak çözüm önerileri getirilmesi,
+Müþteri ihtiyaçlarýný teknik olarak analiz edilmesi, bu doðrultuda ilgili Ýþ Analitiði çözümlerinin oluþturulmasý, hayata geçirilmesi
+Ýþ Analitiði teknolojilerini ve bu alandaki geliþmeleri düzenli olarak takip edilmesi, farklý teknolojilerin þirkette uygulanabilirliðini araþtýrýlmasý, teknoloji seçim çalýþmalarýnýn yürütülmesinde görev alacaktýr.
+ 
+
+Genel Nitelikler
+
+
+Üniversitelerin Endüstri, Bilgisayar, Elektronik Haberleþme, Elektirik-Elektronik Mühendisliði bölümlerinden mezun (Tercihen güçlü akademik geçmiþe sahip yüksek lisans yada doktora yapmýþ)
+
+
+Machine learning algoritmalarý ile çalýþmýþ, ilgili kütüphaneleri kullanmýþ
+Python,Scala, Jupyter, TensorFlow, torch, , Keras,Brain Scripting gibi araçlarda deneyimli (tercihen Image Processing çalýþmalarýnda yer almýþ doðal dil iþleme bilgisine sahip)
+Unsupervised-supervised öðrenme þekilleri hakkýnda tecrübeli (Regression, classification,clustering, vb.) ve iliþkili algoritmalarý uygulayabilen (Decision Trees,Random Forest, Neural Network, Naïve Bayes, SVM, K-means, vb. )
+veri mühendisliði konularýnda bilgi sahibi,
+Veri analizi, yorumlama, anlamlandýrma konusunda tecrübeli
+Microsoft Azure ortamlarýnda Image Processing çalýþmalarýnda bulunmuþ,veriye dayalý analitik modeli ve bu modelin kullanacaðý veriyi hazýrlayabilecek
+Tercihen yazý, görüntü, ses iþleme çalýþmalarý yapmýþ ve proje geliþtirmiþ,
+Analitik Metot/Modelleme, öngörücü model ve davranýþsal segmentasyon konularýnda en az 5 yýl deneyimli,
+Araþtýrmacý, geliþmiþ problem çözme ve analitik düþünme yeteneðine sahip,
+Proje yönetimi yetkinliðine sahip, ekip çalýþmasýnda yatkýn, yaratýcý, müþteri odaklý,

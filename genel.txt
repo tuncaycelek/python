@@ -1,0 +1,39 @@
+
+
+
+tezimde deep learning ile uðraþmaya baþlayýnca keras, tensorflow, pytorch ve theano gibi birbirinden basit uygulamaya dökebileceðiniz kütüphaneler ve frameworkler
+udemyden kurs alýp tatmin olmayýnca udacitynin beleþ kurslarýna dadandým. 
+
+cesitli wifi guvenlik araclari icin python ile yazilmis konsol (terminal) ara yuzu. tertemiz mis gibi python kodu... 
+okuyorsun yukaridan asagi herseyi anlamak son derece kolay... sonra dusunuyodum hizdir, scripttir, soyledir, boyledir... 
+mis gibi is yapmis adamlar, cicek gibi de calisiyor...
+
+https://github.com/derv82/wifite2
+
+
+Python : Rest Api
+Web : Django, CGI
+Veri Analizi : Numpy
+Görüntü Ýþleme : Opencv ve Python
+Web Scrapping : Scrapy, BeautifulSoup
+Oyun Geliþtirme : PyGame
+Arayüz : PyQt, Tkinter, QtDesigner(sürükle-býrak)
+
+1. NumPy (Commits: 15980, Contributors: 522)
+2. SciPy (Commits: 17213, Contributors: 489)
+3. Pandas (Commits: 15089, Contributors: 762)
+4.Matplotlib (Commits: 21754, Contributors: 588)
+5. Seaborn (Commits: 1699, Contributors: 71)
+6. Bokeh (Commits: 15724, Contributors: 223)
+7. Plotly (Commits: 2486, Contributors: 33)
+8. SciKit-Learn (Commits: 21793, Contributors: 842)
+9.Theano. (Commits: 25870, Contributors: 300)
+10. TensorFlow. (Commits: 16785, Contributors: 795)
+11. Keras. (Commits: 3519, Contributors: 428)
+12. NLTK (Commits: 12449, Contributors: 196)
+13. Gensim (Commits: 2878, Contributors: 179)
+14. Scrapy (Commits: 6325, Contributors: 243)
+15. Statsmodels (Commits: 8960, Contributors: 119)
+
+Selenium : Test otomasyonu
+
