@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from . import forms
 from django.contrib.auth.models import User
-from django.contrib.auth import login,authenticate
+from django.contrib.auth import login,authenticate, logout
 from django.contrib import messages
 
 # Create your views here.
@@ -38,4 +38,6 @@ def loginUser(request):
     return render(request,"login.html",{ "form" : form })
 
 def logoutUser(request):
-    pass
+    logout(request)
+    messages.info(request,"Hoşçakal..! ")
+    return redirect("index")
