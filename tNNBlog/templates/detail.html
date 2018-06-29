@@ -25,13 +25,16 @@
 
       <hr>
 
-      <!-- Preview Image 
-      <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+      <!-- Preview Image -->
+      {% if article.article_image %}
+      
+      <img class="img-fluid rounded" src="{{ article.article_image.url }}" alt="">
 
-      <hr>-->
+      <hr>
+      {% endif %}
 
       <!-- Post Content -->
-      <p class="lead">{{article.content}} </p>
+      <p class="lead">{{article.content|safe}} </p>
 
       <hr>
     </div>
