@@ -7,10 +7,10 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/about">Hakkımızda</a>
+            <a class="nav-link" href="{% url 'about'  %}">Hakkımızda</a>
           </li>
           <li class="nav-item active">
-              <a class="nav-link" href="/articles  %}">Makaleler</a>
+              <a class="nav-link" href="{% url 'article:articles'  %}">Makaleler</a>
           </li>
           {% if request.user.is_superuser %}
             <li class="nav-item active">
